@@ -1,0 +1,20 @@
+{
+  "name": "webdev_study",
+  "version": "1.0.0",
+  "description": "Node.js와 npm을 기반으로 TypeScript 문법을 연습하기 위한 레포지토리입니다. ## 준비사항 - Node.js (v22.19.0) - npm (10.9.3) - 코드 에디터 (VS Code)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oesmln/webdev_study.git"
+  },
+  "keywords": [],
+  "author": "MINSEO KIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oesmln/webdev_study/issues"
+  },
+  "homepage": "https://github.com/oesmln/webdev_study#readme"
+}
